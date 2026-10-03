@@ -1,0 +1,4 @@
+,Clusters,Silhouette,Noise points (-1)
+K-Means,4.0,0.146,0.0
+Agglomerative,4.0,0.082,0.0
+DBSCAN,1.0,,49.0

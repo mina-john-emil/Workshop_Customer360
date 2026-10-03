@@ -1,0 +1,16 @@
+CustomerID,AnomalyScore,MostExtremeFeature,Value,StdDevsFromMean,Churn
+CUST-02046,0.646,LatePayments12M,4.0,2.71,Yes
+CUST-01312,0.632,SatisfactionScore,1.0,-2.48,Yes
+CUST-01317,0.631,SupportCalls6M,6.0,2.52,Yes
+CUST-01289,0.63,LatePayments12M,5.0,3.65,No
+CUST-01949,0.63,SupportCalls6M,6.0,2.52,No
+CUST-00461,0.622,SupportCalls6M,8.0,3.85,No
+CUST-00324,0.621,MonthlyUsageGB,542.9,3.55,No
+CUST-00996,0.617,LatePayments12M,5.0,3.65,Yes
+CUST-00902,0.617,LatePayments12M,4.0,2.71,Yes
+CUST-00435,0.616,MonthlyChargeEGP,832.48,2.91,No
+CUST-02887,0.614,TenureMonths,72.0,2.81,No
+CUST-02966,0.614,SupportCalls6M,7.0,3.19,No
+CUST-01542,0.612,LatePayments12M,5.0,3.65,Yes
+CUST-00803,0.606,MonthlyUsageGB,491.3,2.96,No
+CUST-00966,0.605,SatisfactionScore,1.0,-2.48,No

@@ -1,0 +1,5 @@
+Segment,Size,Name,TenureMonths,MonthlyUsageGB,MonthlyChargeEGP,NumServices,SupportCalls6M,LatePayments12M,SatisfactionScore,ChurnRate,Revenue
+0,518,High-Value At-Risk,21.629,230.682,525.758,4.16,2.168,2.689,3.442,0.257,5588.322
+1,462,Loyal,53.771,238.177,472.159,3.223,2.03,1.041,3.53,0.082,5382.871
+2,1041,New Low-Spend,19.816,212.463,379.454,1.924,2.239,0.847,3.45,0.174,4195.774
+3,979,New High-Value,20.376,244.979,588.912,5.003,2.275,0.589,3.527,0.196,6469.898

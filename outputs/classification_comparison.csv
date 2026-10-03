@@ -1,0 +1,8 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC
+Logistic Regression,0.813,0.459,0.156,0.233,0.764
+Naive Bayes,0.75,0.374,0.56,0.449,0.761
+Gradient Boosting,0.808,0.412,0.128,0.196,0.732
+Random Forest,0.82,0.519,0.128,0.206,0.725
+SVM,0.82,0.522,0.11,0.182,0.708
+Decision Tree,0.802,0.4,0.183,0.252,0.694
+KNN,0.822,0.562,0.083,0.144,0.665
